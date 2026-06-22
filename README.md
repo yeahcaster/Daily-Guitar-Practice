@@ -20,8 +20,13 @@ Three scale types are supported:
 
 ## Usage
 
+Run this in a command prompt/ terminal/ windows powershell/ etc
 ```bash
 python daily_practice.py
+```
+alt example:
+```bash
+ py .\downloads\daily_practice.py
 ```
 
 You'll be prompted to select a mode:
