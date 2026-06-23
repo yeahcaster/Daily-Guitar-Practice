@@ -1,6 +1,6 @@
 # Daily Guitar Practice Generator
 
-A daily practice generator for guitar players who want to study scales with harmonic context—not just run patterns up and down the neck.
+A daily practice generator for guitar players who want to study scales with harmonic context, not just run patterns up and down the neck.
 
 Each day the program generates a focused routine combining:
 
