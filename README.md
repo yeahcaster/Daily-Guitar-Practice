@@ -171,19 +171,3 @@ This tool forces daily attention onto different aspects of the fretboard by conn
 The goal is to move beyond pattern memorization and build a practical understanding of how scales and harmony relate.
 
 ---
-
-## Future Ideas
-
-* Melodic minor support
-* Major scale modes
-* Arpeggio-specific days
-* Chord progression generation
-* Practice history tracking
-* CSV export
-* Calendar integration
-
----
-
-## License
-
-MIT License
