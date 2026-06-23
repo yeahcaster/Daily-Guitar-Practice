@@ -78,7 +78,7 @@ When the program generates a routine:
 2. Focus on the selected system (3NPS or 5-position).
 3. Practice triads on the assigned string set.
 4. Locate and play the scale on the assigned individual string.
-5. Study the diatonic chord chart—name, quality, and chord tones.
+5. Study the diatonic chord chart-name, quality, and chord tones.
 6. Spend extra time on the Chord of the Day.
 7. Improvise short phrases using the day's material.
 
